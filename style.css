@@ -1,11 +1,11 @@
 /* make comments within this syntax */
 
 body {
-  font-family: Arial, sans-serif;
+ font-family: "Crimson Text", serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  background-color: #570209;
   color: #333333;
 }
 .container {
@@ -19,8 +19,8 @@ header {
   padding-bottom: 20px;
 }
 header img {
-  width: 150px;
-  border-radius: 50%;
+  width: 500px;
+  border-radius: 0%;
 }
 h1 {
   margin: 10px 0 5px;
@@ -28,7 +28,7 @@ h1 {
   margin-bottom: 30px;
 }
 h2 {
-  color: #444444;
+  color: #950356;
   border-bottom: 1px solid #cccccc;
   padding-bottom: 5px;
   margin-top: 30px;
@@ -37,8 +37,8 @@ ul {
   padding-left: 20px;
 }
 a {
-  color: #0077cc;
-  text-decoration: none;
+  color: #cccccc
+  text-decoration: #950356
 }
 a:hover {
   text-decoration: underline;
@@ -90,14 +90,14 @@ a:hover {
   text-decoration: underline;
 }
 .journal-name {
-  color: #666666;
+  color: #950356;
   font-size: 0.95em;
 }
 
 /* styling for header.html */
 .navbar {
   width: 100%;
-  background-color: #333333;
+  background-color: #570209;
   color: white;
   padding: 10px 10px;
 }
